@@ -1,0 +1,349 @@
+gg0640@cell06-cse:~/public/public/Insertion$ cd
+gg0640@cell06-cse:~$ cd public
+gg0640@cell06-cse:~/public$ cd public
+gg0640@cell06-cse:~/public/public$ cd Selection
+gg0640@cell06-cse:~/public/public/Selection$ g++ selectionSort.cpp
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10.1; do echo $f; ./a.out $f; done
+../inputs/input.10.1
+And this is the sorted output:
+3 3 6 6 7 9 10 11 13 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10.2; do echo $f; ./a.out $f; done
+../inputs/input.10.2
+And this is the sorted output:
+1 5 6 10 11 11 12 17 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10.3; do echo $f; ./a.out $f; done
+../inputs/input.10.3
+And this is the sorted output:
+1 1 4 4 9 12 15 19 19 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10.4; do echo $f; ./a.out $f; done
+../inputs/input.10.4
+And this is the sorted output:
+5 7 8 8 11 12 13 15 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10.5; do echo $f; ./a.out $f; done
+../inputs/input.10.5
+And this is the sorted output:
+1 2 2 5 5 9 9 9 16 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100.1; do echo $f; ./a.out $f; done
+../inputs/input.100.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100.2; do echo $f; ./a.out $f; done
+../inputs/input.100.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100.3; do echo $f; ./a.out $f; done
+../inputs/input.100.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100.4; do echo $f; ./a.out $f; done
+../inputs/input.100.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100.5; do echo $f; ./a.out $f; done
+../inputs/input.100.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000.2; do echo $f; ./a.out $f; done
+../inputs/input.1000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.006s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000.3; do echo $f; ./a.out $f; done
+../inputs/input.1000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000.4; do echo $f; ./a.out $f; done
+../inputs/input.1000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000.5; do echo $f; ./a.out $f; done
+../inputs/input.1000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10000.1; do echo $f; ./a.out $f; done
+../inputs/input.10000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.186s
+user	0m0.179s
+sys	0m0.004s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10000.2; do echo $f; ./a.out $f; done
+../inputs/input.10000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.187s
+user	0m0.184s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10000.3; do echo $f; ./a.out $f; done
+../inputs/input.10000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.198s
+user	0m0.191s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10000.4; do echo $f; ./a.out $f; done
+../inputs/input.10000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.186s
+user	0m0.180s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.10000.5; do echo $f; ./a.out $f; done
+../inputs/input.10000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.186s
+user	0m0.184s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100000.1; do echo $f; ./a.out $f; done
+../inputs/input.100000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.217s
+user	0m18.154s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100000.2; do echo $f; ./a.out $f; done
+../inputs/input.100000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.265s
+user	0m18.110s
+sys	0m0.004s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100000.3; do echo $f; ./a.out $f; done
+../inputs/input.100000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.101s
+user	0m18.057s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100000.4; do echo $f; ./a.out $f; done
+../inputs/input.100000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.233s
+user	0m18.176s
+sys	0m0.008s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.100000.5; do echo $f; ./a.out $f; done
+../inputs/input.100000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.098s
+user	0m18.078s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Selection$  time for f in ../inputs/input.1000000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	30m36.622s
+user	30m30.400s
+sys	0m0.304s
+gg0640@cell06-cse:~/public/public/Selection$ 
