@@ -1,0 +1,556 @@
+gg0640@cell06-cse:~/public/public/Selection$ cd
+gg0640@cell06-cse:~$ cd public/public/Heapsort
+gg0640@cell06-cse:~/public/public/Heapsort$ g++ *.cpp
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.1; do echo $f; ./a.out $f; done
+../inputs/input.10.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+7 3 6 10 6 11 3 19 13 9 
+And this is the sorted output:
+19 13 11 10 9 7 6 6 3 3 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.2; do echo $f; ./a.out $f; done
+../inputs/input.10.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+1 10 18 5 20 11 11 6 17 12 
+And this is the sorted output:
+20 18 17 12 11 11 10 6 5 1 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.3; do echo $f; ./a.out $f; done
+../inputs/input.10.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 20 19 1 4 1 12 4 15 19 
+And this is the sorted output:
+20 19 19 15 12 9 4 4 1 1 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.4; do echo $f; ./a.out $f; done
+../inputs/input.10.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+8 5 18 7 15 12 20 8 13 11 
+And this is the sorted output:
+20 18 15 13 12 11 8 8 7 5 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.4; do echo $f; ./a.out $f; done
+../inputs/input.10.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+8 5 18 7 15 12 20 8 13 11 
+And this is the sorted output:
+20 18 15 13 12 11 8 8 7 5 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10.5; do echo $f; ./a.out $f; done
+../inputs/input.10.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 1 9 16 2 5 5 18 9 2 
+And this is the sorted output:
+18 16 9 9 9 5 5 2 2 1 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100.1; do echo $f; ./a.out $f; done
+../inputs/input.100.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100.2; do echo $f; ./a.out $f; done
+../inputs/input.100.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100.3; do echo $f; ./a.out $f; done
+../inputs/input.100.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100.4; do echo $f; ./a.out $f; done
+../inputs/input.100.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100.5; do echo $f; ./a.out $f; done
+../inputs/input.100.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000.2; do echo $f; ./a.out $f; done
+../inputs/input.1000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000.3; do echo $f; ./a.out $f; done
+../inputs/input.1000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.003s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000.4; do echo $f; ./a.out $f; done
+../inputs/input.1000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000.5; do echo $f; ./a.out $f; done
+../inputs/input.1000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10000.1; do echo $f; ./a.out $f; done
+../inputs/input.10000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.018s
+user	0m0.007s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10000.2; do echo $f; ./a.out $f; done
+../inputs/input.10000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.009s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10000.3; do echo $f; ./a.out $f; done
+../inputs/input.10000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.016s
+user	0m0.007s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10000.4; do echo $f; ./a.out $f; done
+../inputs/input.10000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.008s
+user	0m0.007s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.10000.5; do echo $f; ./a.out $f; done
+../inputs/input.10000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.010s
+user	0m0.007s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100000.1; do echo $f; ./a.out $f; done
+../inputs/input.100000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.132s
+user	0m0.059s
+sys	0m0.004s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100000.2; do echo $f; ./a.out $f; done
+../inputs/input.100000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.121s
+user	0m0.060s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100000.3; do echo $f; ./a.out $f; done
+../inputs/input.100000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.161s
+user	0m0.060s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100000.4; do echo $f; ./a.out $f; done
+../inputs/input.100000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.171s
+user	0m0.057s
+sys	0m0.004s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.100000.5; do echo $f; ./a.out $f; done
+../inputs/input.100000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.167s
+user	0m0.060s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Heapsort$  time for f in ../inputs/input.1000000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.729s
+user	0m0.709s
+sys	0m0.016s
+gg0640@cell06-cse:~/public/public/Heapsort$ 
