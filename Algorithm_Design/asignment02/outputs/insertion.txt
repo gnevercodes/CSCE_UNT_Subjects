@@ -1,0 +1,415 @@
+Last login: Thu Mar  7 17:54:09 on ttys000
+(base) ganesh@Ganeshs-Air-2 ~ % ssh gg0640@CELL06-CSE.ENG.UNT.EDU
+(gg0640@cell06-cse.eng.unt.edu) Password:
+Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.15.0-91-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+Expanded Security Maintenance for Applications is not enabled.
+
+19 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+9 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '22.04.3 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+Your Hardware Enablement Stack (HWE) is supported until April 2025.
+*** System restart required ***
+Last login: Thu Mar  7 17:54:34 2024 from 172.20.6.234
+
+          _ _  ___   __                       
+  ___ ___| | |/ _ \ / /_         ___ ___  ___ 
+ / __/ _ \ | | | | | '_ \ _____ / __/ __|/ _ \
+| (_|  __/ | | |_| | (_) |_____| (__\__ \  __/
+ \___\___|_|_|\___/ \___/       \___|___/\___|
+                                              
+
+Server name is: cell06-cse
+This system is running: Ubuntu 20.04.6 LTS GNU/Linux 5.15.0-91-generic x86_64
+kernel is: 5.15.0-91-generic
+
+
+WARNING
+
+   This system is the property of the University of North
+   Texas and your use of this resource constitutes an
+   agreement to abide by relevant federal and state laws
+   and UNT policies (see UNT Policies 3.10, 3.6, and 3.11).
+   Unauthorized use of this system is prohibited. Violations
+   can result in penalties and criminal prosecution.
+   Usage may be subject to security testing and monitoring.
+   Users have no expectation of privacy except as otherwise
+   provided by applicable privacy laws.
+
+
+
+* Need Help: https://itservices.engineering.unt.edu
+-----------------------------------------------------
+
+gg0640@cell06-cse:~$ cd public
+gg0640@cell06-cse:~/public$ cd public 
+gg0640@cell06-cse:~/public/public$ cd Insertion
+gg0640@cell06-cse:~/public/public/Insertion$ g++ insertionSort.cpp
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10.1; do echo $f; ./a.out $f; done
+../inputs/input.10.1
+And this is the sorted output:
+3 3 6 6 7 9 10 11 13 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10.2; do echo $f; ./a.out $f; done
+../inputs/input.10.2
+And this is the sorted output:
+1 5 6 10 11 11 12 17 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10.3; do echo $f; ./a.out $f; done
+../inputs/input.10.3
+And this is the sorted output:
+1 1 4 4 9 12 15 19 19 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10.4; do echo $f; ./a.out $f; done
+../inputs/input.10.4
+And this is the sorted output:
+5 7 8 8 11 12 13 15 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10.5; do echo $f; ./a.out $f; done
+../inputs/input.10.5
+And this is the sorted output:
+1 2 2 5 5 9 9 9 16 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100.1; do echo $f; ./a.out $f; done
+../inputs/input.100.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100.2; do echo $f; ./a.out $f; done
+../inputs/input.100.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100.3; do echo $f; ./a.out $f; done
+../inputs/input.100.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100.4; do echo $f; ./a.out $f; done
+../inputs/input.100.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100.5; do echo $f; ./a.out $f; done
+../inputs/input.100.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.2; do echo $f; ./a.out $f; done
+../inputs/input.1000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.3; do echo $f; ./a.out $f; done
+../inputs/input.1000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.4; do echo $f; ./a.out $f; done
+../inputs/input.1000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000.5; do echo $f; ./a.out $f; done
+../inputs/input.1000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10000.1; do echo $f; ./a.out $f; done
+../inputs/input.10000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.232s
+user	0m0.188s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10000.2; do echo $f; ./a.out $f; done
+../inputs/input.10000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.237s
+user	0m0.235s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10000.3; do echo $f; ./a.out $f; done
+../inputs/input.10000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.184s
+user	0m0.183s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10000.4; do echo $f; ./a.out $f; done
+../inputs/input.10000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.185s
+user	0m0.184s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.10000.5; do echo $f; ./a.out $f; done
+../inputs/input.10000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.276s
+user	0m0.275s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100000.1; do echo $f; ./a.out $f; done
+../inputs/input.100000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.277s
+user	0m18.229s
+sys	0m0.016s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100000.2; do echo $f; ./a.out $f; done
+../inputs/input.100000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.375s
+user	0m18.346s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100000.3; do echo $f; ./a.out $f; done
+../inputs/input.100000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.157s
+user	0m18.140s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100000.4; do echo $f; ./a.out $f; done
+../inputs/input.100000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m23.955s
+user	0m22.335s
+sys	0m0.069s
+
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.100000.5; do echo $f; ./a.out $f; done
+../inputs/input.100000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m20.999s
+user	0m18.872s
+sys	0m0.044s
+gg0640@cell06-cse:~/public/public/Insertion$  time for f in ../inputs/input.1000000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	40m4.539s
+user	30m33.234s
+sys	0m0.788s
+gg0640@cell06-cse:~/public/public/Insertion$ 
