@@ -1,0 +1,345 @@
+gg0640@cell06-cse:~/public/public/Mergesort$ g++ *.cpp
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10.1; do echo $f; ./a.out $f; done
+../inputs/input.10.1
+And this is the sorted output:
+3 3 6 6 7 9 10 11 13 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10.2; do echo $f; ./a.out $f; done
+../inputs/input.10.2
+And this is the sorted output:
+1 5 6 10 11 11 12 17 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10.3; do echo $f; ./a.out $f; done
+../inputs/input.10.3
+And this is the sorted output:
+1 1 4 4 9 12 15 19 19 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10.4; do echo $f; ./a.out $f; done
+../inputs/input.10.4
+And this is the sorted output:
+5 7 8 8 11 12 13 15 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10.5; do echo $f; ./a.out $f; done
+../inputs/input.10.5
+And this is the sorted output:
+1 2 2 5 5 9 9 9 16 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100.1; do echo $f; ./a.out $f; done
+../inputs/input.100.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100.2; do echo $f; ./a.out $f; done
+../inputs/input.100.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100.3; do echo $f; ./a.out $f; done
+../inputs/input.100.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100.4; do echo $f; ./a.out $f; done
+../inputs/input.100.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100.5; do echo $f; ./a.out $f; done
+../inputs/input.100.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000.2; do echo $f; ./a.out $f; done
+../inputs/input.1000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000.3; do echo $f; ./a.out $f; done
+../inputs/input.1000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000.4; do echo $f; ./a.out $f; done
+../inputs/input.1000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000.5; do echo $f; ./a.out $f; done
+../inputs/input.1000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10000.1; do echo $f; ./a.out $f; done
+../inputs/input.10000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.018s
+user	0m0.007s
+sys	0m0.003s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10000.2; do echo $f; ./a.out $f; done
+../inputs/input.10000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.024s
+user	0m0.010s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10000.3; do echo $f; ./a.out $f; done
+../inputs/input.10000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.027s
+user	0m0.010s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10000.4; do echo $f; ./a.out $f; done
+../inputs/input.10000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.025s
+user	0m0.010s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.10000.5; do echo $f; ./a.out $f; done
+../inputs/input.10000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.019s
+user	0m0.010s
+sys	0m0.000s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100000.1; do echo $f; ./a.out $f; done
+../inputs/input.100000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.201s
+user	0m0.084s
+sys	0m0.013s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100000.2; do echo $f; ./a.out $f; done
+../inputs/input.100000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.185s
+user	0m0.091s
+sys	0m0.001s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100000.3; do echo $f; ./a.out $f; done
+../inputs/input.100000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.176s
+user	0m0.084s
+sys	0m0.005s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100000.4; do echo $f; ./a.out $f; done
+../inputs/input.100000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.179s
+user	0m0.080s
+sys	0m0.009s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.100000.5; do echo $f; ./a.out $f; done
+../inputs/input.100000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.176s
+user	0m0.085s
+sys	0m0.004s
+gg0640@cell06-cse:~/public/public/Mergesort$  time for f in ../inputs/input.1000000.1; do echo $f; ./a.out $f; done
+../inputs/input.1000000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m1.464s
+user	0m0.946s
+sys	0m0.012s
+gg0640@cell06-cse:~/public/public/Mergesort$ 
